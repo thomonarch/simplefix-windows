@@ -1,3 +1,9 @@
+ ____  _                 _      _____ _      
+/ ___|(_)_ __ ___  _ __ | | ___|  ___(_)_  __
+\___ \| | '_ ` _ \| '_ \| |/ _ \ |_  | \ \/ /
+ ___) | | | | | | | |_) | |  __/  _| | |>  < 
+|____/|_|_| |_| |_| .__/|_|\___|_|   |_/_/\_\
+                  |_|    
 SimpleFix for Windows
 SimpleFix is a lightweight Windows maintenance tool that brings together common repair actions, cleanup tasks, and a balanced debloat option. The goal is to provide a clear, safe, and straightforward utility without unnecessary features or noise.
 
